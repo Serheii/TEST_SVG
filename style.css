@@ -1,0 +1,10 @@
+#window:hover {
+  fill: black;
+  height: 70px; width: 70px;
+  }
+#svg_5:hover {
+height: 100px; width: 50px; opacity: 0.6;
+    }
+#svg_3:hover {
+  stroke: red
+  }
